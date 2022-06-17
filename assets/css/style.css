@@ -1,0 +1,109 @@
+
+
+
+nav {
+  background-color: #373A3C !important;
+  text-align: left;
+  color: #FFFFFF !important;
+  font-family: 'Lobster', cursive;
+}
+.collapse{
+  color: #FFF !important;
+  font-family: 'Cabin', sans-serif !important;
+
+}
+
+.tooltip{
+  background-color: #000 !important;
+}
+
+
+h1 {
+  color: #FFFFFF !important;
+  font-family: 'Lobster', cursive;
+}
+
+.hr {
+  color: #000 !important;
+}
+
+
+.id {
+  color: #FFFFFF !important;
+}
+
+.navbarNav {
+  color: #FFFFFF !important;
+}
+
+
+.colornegro {
+  color: #000;
+  font-weight: 700;
+}
+
+.colorfondo {
+  background: #373a3C;
+}
+
+.colorgris {
+  color: #dddddd;
+}
+
+.colorblanco {
+  color: #fff !important;
+  font-weight: 700;
+}
+
+
+.colordanger {
+  color: #dc3545;
+}
+
+.centrado {
+  text-align: center;
+}
+
+.carousel-indicators {
+  top: 190px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.newsletter {
+  background-color: #dc3545;
+  /* width: 18rem; */
+}
+
+.newsletter.span {
+  background-color: #dc3545;
+  font-family: 'Lobster', cursive;
+}
+
+.preparacion {
+  margin: auto;
+  max-width: 100px;
+}
+
+span {
+  font-family: 'Lobster', cursive;
+  font-weight: 80px;
+}
+
+.subrayado {
+  text-decoration: underline;
+  font-weight: 120px;
+  font-weight: bold;
+}
+
+.h2{
+  text-align: center;
+  position: absolute;
+  font-size: 40pt !important;
+  font-weight: 80px;
+}
